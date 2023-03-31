@@ -3,14 +3,14 @@
 [Link to Vercel deployment](https://pokedex-frontend-ten.vercel.app/)
 
 Pokedex-React is a remake of the Pokedex-DOM page using React library and NEXT.JS framework for the frontend and Express framework for the backend.
- 
+
 This repository is the backend of the application. 
 
 [Link to the frontend github repository](https://github.com/asseniliev/Pokedex-frontend)
 
 Front page:
 
-![Pokedex](/frontPage.jpg)
+![Pokedex](frontPage.jpg)
 
 Functionality available:
 1. The front page calls the backend which, in return calls pokeapi.co API containing data for pokemons cards. The backend then returns a json with data back to the frontend.
